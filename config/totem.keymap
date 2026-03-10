@@ -9,7 +9,7 @@
                        &kp A  &kp A  &kp A  &kp A  &kp A      &kp A  &kp A  &kp A  &kp A  &kp A
                        &kp A  &kp A  &kp A  &kp A  &kp A      &kp A  &kp A  &kp A  &kp A  &kp A
                 &kp A  &kp A  &kp A  &kp A  &kp A  &kp A      &kp A  &kp A  &kp A  &kp A  &kp A  &kp A
-                                     &kp A  &kp A  &kp A      &kp A  &kp A  &kp A
+                                     &kp A  &kp A  &studio_unlock      &kp A  &kp A  &kp A
             >;
         };
     };
