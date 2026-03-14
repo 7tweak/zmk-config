@@ -3,6 +3,17 @@
 #include <dt-bindings/zmk/pointing.h>
 
 / {
+    behaviors {
+        lt: lt_config {
+            compatible = "zmk,behavior-hold-tap";
+            #binding-cells = <2>;
+            tapping-term-ms = <199>;
+            quick-tap-ms = <175>;
+            flavor = "balanced";
+            bindings = <&mo>, <&kp>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
