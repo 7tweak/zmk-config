@@ -80,3 +80,9 @@
         };
     };
 };
+
+/* zmk-behavior-overrides */
+&mt {
+    tapping-term-ms = <199>;
+};
+/* end-zmk-behavior-overrides */
